@@ -1,0 +1,138 @@
+body {
+	background-color: black;
+}
+
+#top_bar {
+	background-color: purple;
+	color: white;
+	font-size: 80px;
+	text-align: center;
+	font-family: narkisim;
+	padding: 20px;
+	font-style: italic;
+}
+
+#menu {
+	float: right;
+	width: 17%;
+	min-height: 600px;
+	background-color: #475797;
+}
+
+.menu_button {
+	color: white;
+	font-size: 30px;
+	font-family: arial;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+.menu_button a {
+	text-decoration: none;
+}
+
+.menu_button a:visited, .menu_button a:active, .menu_button a:link {
+	color: white;
+}
+
+.active, .active a {
+	color: #69ef10 !important;
+}
+
+.menu_expand_down {
+	width: 20px;
+	height: 20px;
+}
+
+#menu_button_users {
+	cursor: pointer;
+}
+
+#menu_users {
+	height: 250px;
+	overflow-y: auto;
+	margin-left: 10px;
+	position: relative;
+	list-style: none;
+}
+
+.menu_user_image {
+	width: 25px;
+	height: 25px;
+}
+
+.menu_user_name {
+	font-size: 15px;
+	height: 25px;
+	margin-right: 4px;
+	margin-bottom: 3px;
+	display: inline-block;
+  	vertical-align: middle;
+  	line-height: normal;
+}
+
+#content {
+	float: left;
+	width: 83%;
+	min-height: 600px;
+	background-color: rgb(189, 221, 189);
+	font-family: arial;
+}
+
+#content table, #content table tr, #content table th, #content table td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+#content table {
+	table-layout: fixed;
+	width: 100%;
+	word-wrap: break-word;
+}
+
+#content table td, #content table th {
+	padding: 6px;
+}
+
+#content table th {
+	background-color: #e8e6ea;
+}
+
+#content table td {
+	background-color: white;
+}
+
+.chart {
+	width: 900px;
+	height: 200px;
+}
+
+.legend table {
+	width: auto !important;
+}
+
+.chart_title {
+	font-family: narkisim;
+	padding-right: 30px;
+}
+
+.chart_container hr {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.likes_details {
+	width: 20px;
+	height: 20px;
+	color: white;
+	font-weight: bold;
+	background-color: #1176f0;
+	border-radius: 5px;
+	border: 1px solid black;
+	cursor: pointer;
+	margin: auto;
+}
+
+.qtip {
+	min-width: 160px;
+}

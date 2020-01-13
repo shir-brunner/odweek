@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0654175-f5e9-4a4c-a466-cba1bf8edd59" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Assaf.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/facebook.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ajax/comment_likes.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ajax/random_comment.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/all_comments.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/all_users.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/base_facebook.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/best_comments.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/charts.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/charts_functions.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db_handler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/facebook.clpprj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/facebook.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/facebook_data.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fb_ca_chain_bundle.crt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/helper_functions.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/expand_down.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/expand_up.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/monthly.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/contents.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/extra-notes.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/flexcroll-guide.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/flexcroll-programming.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/modules/news-ticker/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/modules/news-ticker/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/modules/news-ticker/flexnewsticker.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/modules/news-ticker/flexticker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/modules/news-ticker/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/readme.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only-commented/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only-commented/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only-commented/scrollbar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only-commented/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only-commented/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only/scrollbar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fatcuddly-vertical_only/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage-commented/basebarcaps_verticalbarbody.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage-commented/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage-commented/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage-commented/horizontalbarbody_cornerjog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage-commented/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage-commented/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage/basebarcaps_verticalbarbody.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage/horizontalbarbody_cornerjog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/fullimage/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/minimal/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/minimal/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/minimal/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/minimal/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/newstylingmethod/ReadMe.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/newstylingmethod/Thumbs.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/newstylingmethod/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/newstylingmethod/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/newstylingmethod/horizontalbar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/newstylingmethod/stripes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/newstylingmethod/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/newstylingmethod/verticalbar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/recommended_styles/newstylingmethod/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/script/flexcroll-uncompressed.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/script/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/always_display/basebarcaps_verticalbarbody.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/always_display/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/always_display/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/always_display/horizontalbarbody_cornerjog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/always_display/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/always_display/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/external_scrollbar/basebarcaps_verticalbarbody.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/external_scrollbar/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/external_scrollbar/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/external_scrollbar/horizontalbarbody_cornerjog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/external_scrollbar/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/external_scrollbar/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/fixedsize-transparent/bodybg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/fixedsize-transparent/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/fixedsize-transparent/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/fixedsize-transparent/scrollbar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/fixedsize-transparent/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/fixedsize-transparent/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/flexcroll-uncompressed.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/flexcrollie6styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/ie6images/Thumbs.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/ie6images/hscrollbasedex.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/ie6images/hscrollbasesin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/ie6images/hscrollerdex.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/ie6images/hscrollersin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/ie6images/vscrollbasebot.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/ie6images/vscrollbasetop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/ie6images/vscrollerbot.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/ie6images/vscrollertop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/images/Thumbs.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/images/hscroller.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/images/scrollbaseback.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/images/scrollbases.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/images/scrolljog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/images/vscroller.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/full_alpha/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/horizontal_liquid/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/horizontal_liquid/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/horizontal_liquid/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/horizontal_liquid/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/scrollbar_opposite/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/scrollbar_opposite/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/scrollbar_opposite/scrollbar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/scrollbar_opposite/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/scrollbar_opposite/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_floats/basebarcaps_verticalbarbody.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_floats/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_floats/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_floats/horizontalbarbody_cornerjog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_floats/mypicture.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_floats/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_floats/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_horizontal_stacks/basebarcaps_verticalbarbody.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_horizontal_stacks/flexcroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_horizontal_stacks/flexcrollstyles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_horizontal_stacks/horizontalbarbody_cornerjog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_horizontal_stacks/mypicture.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_horizontal_stacks/tutorsty.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flexcroll/variations-howto's/using_horizontal_stacks/web.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/jquery.flot.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/jquery.flot.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.colorhelpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.colorhelpers.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.crosshair.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.crosshair.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.fillbetween.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.fillbetween.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.image.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.image.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.navigate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.navigate.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.orderBars.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.orderBars.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.pie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.pie.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.resize.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.resize.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.selection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.selection.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.stack.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.stack.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.symbol.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.symbol.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.threshold.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.threshold.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/flot/plugins/jquery.flot.tooltip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jquery-1.8.3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/AUTHORS.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/MANIFEST" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/MIT-LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/accordion/collapsible.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/accordion/custom-icons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/accordion/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/accordion/fillspace.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/accordion/hoverintent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/accordion/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/accordion/no-auto-height.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/accordion/sortable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/addClass/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/addClass/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/animate/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/animate/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/categories.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/combobox.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/custom-data.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/folding.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/images/jquery_32x32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/images/jqueryui_32x32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/images/sizzlejs_32x32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/images/transparent_1x1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/images/ui-anim_basic_16x16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/london.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/maxheight.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/multiple-remote.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/multiple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/remote-jsonp.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/remote-with-cache.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/remote.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/search.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/autocomplete/xml.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/button/checkbox.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/button/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/button/icons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/button/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/button/radio.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/button/splitbutton.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/button/toolbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/alt-field.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/animation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/buttonbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/date-formats.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/date-range.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/dropdown-month-year.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/icon-trigger.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/images/calendar.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/inline.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/jquery.ui.datepicker-ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/jquery.ui.datepicker-fr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/jquery.ui.datepicker-he.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/jquery.ui.datepicker-zh-TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/localization.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/min-max.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/multiple-calendars.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/other-months.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/datepicker/show-week.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/demos.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/dialog/animated.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/dialog/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/dialog/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/dialog/modal-confirmation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/dialog/modal-form.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/dialog/modal-message.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/dialog/modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/constrain-movement.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/cursor-style.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/delay-start.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/events.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/handle.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/revert.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/scroll.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/snap-to.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/sortable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/draggable/visual-feedback.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/accepted-elements.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/images/high_tatras.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/images/high_tatras2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/images/high_tatras2_min.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/images/high_tatras3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/images/high_tatras3_min.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/images/high_tatras4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/images/high_tatras4_min.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/images/high_tatras_min.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/photo-manager.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/propagation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/revert.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/shopping-cart.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/droppable/visual-feedback.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/effect/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/effect/easing.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/effect/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/hide/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/hide/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/images/calendar.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/images/demo-config-on-tile.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/images/demo-config-on.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/images/demo-spindown-closed.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/images/demo-spindown-open.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/images/icon-docs-info.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/images/pbar-ani.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/menu/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/menu/icons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/menu/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/position/cycler.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/position/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/position/images/earth.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/position/images/flight.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/position/images/rocket.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/position/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/progressbar/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/progressbar/images/pbar-ani.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/progressbar/indeterminate.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/progressbar/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/progressbar/label.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/removeClass/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/removeClass/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/animate.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/aspect-ratio.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/constrain-area.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/delay-start.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/helper.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/max-min.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/snap-to-grid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/synchronous-resize.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/textarea.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/resizable/visual-feedback.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/selectable/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/selectable/display-grid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/selectable/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/selectable/serialize.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/show/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/show/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/colorpicker.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/hotelrooms.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/multiple-vertical.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/range-vertical.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/range.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/rangemax.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/rangemin.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/side-scroll.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/slider-vertical.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/slider/steps.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/connect-lists-through-tabs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/connect-lists.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/delay-start.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/display-grid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/empty-lists.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/items.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/placeholder.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/sortable/portlets.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/spinner/currency.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/spinner/decimal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/spinner/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/spinner/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/spinner/latlong.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/spinner/overflow.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/spinner/time.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/switchClass/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/switchClass/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/ajax.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/ajax/content1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/ajax/content2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/ajax/content3-slow.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/ajax/content4-broken.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/bottom.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/collapsible.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/manipulation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/mouseover.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/sortable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tabs/vertical.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/toggle/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/toggle/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/toggleClass/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/toggleClass/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/ajax/content1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/ajax/content2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/custom-animation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/custom-content.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/custom-style.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/forms.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/images/st-stephens.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/images/tower-bridge.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/tracking.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/tooltip/video-player.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/widget/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/demos/widget/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/external/globalize.culture.de-DE.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/external/globalize.culture.ja-JP.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/external/globalize.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/external/jquery.mousewheel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/external/jshint.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/external/qunit.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/external/qunit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/jquery-1.9.1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/index.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.6.1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.6.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.6.3.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.6.4.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.6.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.7.1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.7.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.7.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.8.0.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.8.1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.8.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.8.3.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.9.0.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery-1.9.1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/jquery.simulate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/accordion/accordion.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/accordion/accordion_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/accordion/accordion_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/accordion/accordion_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/accordion/accordion_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/accordion/accordion_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/accordion/accordion_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/accordion/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/autocomplete.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/autocomplete_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/autocomplete_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/autocomplete_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/autocomplete_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/autocomplete_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/remote_object_array_labels.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/remote_object_array_values.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/autocomplete/remote_string_array.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/button/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/button/button.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/button/button_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/button/button_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/button/button_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/button/button_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/button/button_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/core/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/core/core.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/core/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/core/selector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/datepicker/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/datepicker/datepicker.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/datepicker/datepicker_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/datepicker/datepicker_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/datepicker/datepicker_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/datepicker/datepicker_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/datepicker/datepicker_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/datepicker/datepicker_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/datepicker/images/calendar.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/dialog.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/dialog_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/dialog_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/dialog_deprecated.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/dialog_deprecated.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/dialog_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/dialog_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/dialog_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/dialog/dialog_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/draggable/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/draggable/draggable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/draggable/draggable_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/draggable/draggable_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/draggable/draggable_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/draggable/draggable_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/draggable/draggable_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/draggable/draggable_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/droppable/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/droppable/droppable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/droppable/droppable_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/droppable/droppable_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/droppable/droppable_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/droppable/droppable_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/droppable/droppable_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/droppable/droppable_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/effects/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/effects/effects.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/effects/effects_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/effects/effects_scale.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/images/jqueryui_32x32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/menu/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/menu/menu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/menu/menu_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/menu/menu_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/menu/menu_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/menu/menu_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/menu/menu_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/menu/menu_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/position/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/position/position.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/position/position_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/progressbar/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/progressbar/progressbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/progressbar/progressbar_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/progressbar/progressbar_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/progressbar/progressbar_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/progressbar/progressbar_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/progressbar/progressbar_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/qunit-composite.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/qunit-composite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/resizable/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/resizable/images/test.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/resizable/resizable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/resizable/resizable_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/resizable/resizable_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/resizable/resizable_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/resizable/resizable_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/resizable/resizable_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/resizable/resizable_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/selectable/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/selectable/selectable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/selectable/selectable_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/selectable/selectable_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/selectable/selectable_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/selectable/selectable_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/selectable/selectable_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/slider/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/slider/slider.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/slider/slider_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/slider/slider_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/slider/slider_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/slider/slider_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/slider/slider_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/sortable/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/sortable/sortable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/sortable/sortable_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/sortable/sortable_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/sortable/sortable_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/sortable/sortable_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/sortable/sortable_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/sortable/sortable_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/spinner/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/spinner/spinner.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/spinner/spinner_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/spinner/spinner_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/spinner/spinner_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/spinner/spinner_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/spinner/spinner_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/spinner/spinner_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/subsuite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/swarminject.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tabs/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tabs/data/test.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tabs/tabs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tabs/tabs_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tabs/tabs_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tabs/tabs_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tabs/tabs_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tabs/tabs_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tabs/tabs_test_helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/testsuite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tooltip/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tooltip/tooltip.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tooltip/tooltip_common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tooltip/tooltip_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tooltip/tooltip_events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tooltip/tooltip_methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/tooltip/tooltip_options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/widget/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/widget/widget.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/widget/widget_animation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/widget/widget_core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/unit/widget/widget_extend.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/accordion/icons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/addClass/queue.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/button/button.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/button/performance.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/compound/accordion_tabs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/compound/datepicker_dialog.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/compound/dialog_widgets.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/compound/draggable_accordion.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/compound/draggable_accordion_accordion_tabs_draggable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/compound/sortable_accordion_sortable_tabs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/compound/tabs_tabs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/compound/tabs_tooltips.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/dialog/animated.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/dialog/complex-dialogs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/dialog/form.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/dialog/performance.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/effects/all.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/effects/effects.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/effects/effects.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/effects/scale.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/menu/menu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/position/position.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/position/position_feedback.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/theme.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/tooltip/animations.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/tooltip/tooltip.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/tests/visual/visual.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/animated-overlay.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-icons_222222_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-icons_2e83ff_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-icons_454545_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-icons_888888_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/images/ui-icons_cd0a0a_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery-ui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.accordion.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.all.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.autocomplete.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.button.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.core.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.datepicker.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.dialog.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.progressbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.resizable.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.selectable.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.spinner.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.tabs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/jquery.ui.tooltip.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/animated-overlay.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-icons_222222_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-icons_2e83ff_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-icons_454545_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-icons_888888_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/images/ui-icons_cd0a0a_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery-ui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.accordion.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.autocomplete.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.button.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.core.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.datepicker.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.dialog.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.menu.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.progressbar.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.resizable.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.selectable.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.slider.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.spinner.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.tabs.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/themes/base/minified/jquery.ui.tooltip.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.accordion.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.autocomplete.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.button.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.core.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.datepicker.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.dialog.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.draggable.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.droppable.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-blind.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-bounce.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-clip.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-drop.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-explode.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-fade.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-fold.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-highlight.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-pulsate.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-scale.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-shake.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-slide.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect-transfer.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.effect.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.menu.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.mouse.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.position.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.progressbar.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.resizable.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.selectable.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.slider.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.sortable.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.spinner.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.tabs.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.tooltip.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui.widget.jquery.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery-ui-i18n.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-af.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ar-DZ.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-az.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-be.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-bg.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-bs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ca.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-cs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-cy-GB.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-da.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-de.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-el.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-en-AU.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-en-GB.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-en-NZ.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-eo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-es.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-et.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-eu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-fa.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-fi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-fo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-fr-CA.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-fr-CH.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-fr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-gl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-he.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-hi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-hr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-hu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-hy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-id.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-is.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-it.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ja.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ka.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-kk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-km.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ko.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ky.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-lb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-lt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-lv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-mk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ml.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ms.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-nb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-nl-BE.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-nl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-nn.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-no.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-pl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-pt-BR.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-pt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-rm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ro.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ru.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-sk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-sl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-sq.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-sr-SR.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-sr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-sv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-ta.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-th.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-tj.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-tr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-uk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-vi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-zh-CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-zh-HK.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/i18n/jquery.ui.datepicker-zh-TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery-ui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.accordion.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.autocomplete.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.datepicker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.dialog.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.draggable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.droppable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-blind.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-bounce.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-clip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-drop.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-explode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-fade.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-fold.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-pulsate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-scale.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-shake.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-slide.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect-transfer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.effect.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.menu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.mouse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.position.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.progressbar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.resizable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.selectable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.slider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.sortable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.spinner.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.tabs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/jquery.ui.widget.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery-ui-i18n.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-af.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ar-DZ.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ar.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-az.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-be.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-bg.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-bs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ca.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-cs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-cy-GB.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-da.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-de.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-el.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-en-AU.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-en-GB.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-en-NZ.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-eo.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-es.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-et.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-eu.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-fa.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-fi.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-fo.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-fr-CA.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-fr-CH.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-fr.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-gl.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-he.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-hi.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-hr.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-hu.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-hy.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-id.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-is.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-it.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ja.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ka.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-kk.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-km.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ko.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ky.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-lb.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-lt.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-lv.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-mk.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ml.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ms.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-nb.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-nl-BE.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-nl.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-nn.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-no.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-pl.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-pt-BR.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-pt.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-rm.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ro.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ru.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-sk.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-sl.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-sq.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-sr-SR.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-sr.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-sv.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-ta.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-th.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-tj.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-tr.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-uk.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-vi.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-zh-CN.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-zh-HK.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/i18n/jquery.ui.datepicker-zh-TW.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery-ui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.accordion.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.autocomplete.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.button.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.core.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.datepicker.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.dialog.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.draggable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.droppable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-blind.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-bounce.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-clip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-drop.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-explode.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-fade.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-fold.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-highlight.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-pulsate.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-scale.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-shake.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-slide.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect-transfer.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.effect.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.menu.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.mouse.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.position.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.progressbar.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.resizable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.selectable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.slider.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.sortable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.spinner.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.tabs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.tooltip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/jui/ui/minified/jquery.ui.widget.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/monthlyChart.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/qtip/jquery.qtip-1.0.0-rc3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/tablePaging.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/tablesorter/arrow_asc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/tablesorter/arrow_desc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/tablesorter/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/tablesorter/tsort.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/usersChart.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/usersLikesChart.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/summary.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/user.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/welcome.php" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_comments.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all_comments.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db_handler.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db_handler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <folding>
+                <marker date="1578923624245" expanded="true" signature="463:676" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facebook_data.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/facebook_data.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facebook.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facebook.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-900">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getAllComments</find>
+      <find>setUsersData</find>
+      <find>facebook-&gt;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/all_comments.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/db_handler.php" />
+        <option value="$PROJECT_DIR$/facebook_data.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1552" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0654175-f5e9-4a4c-a466-cba1bf8edd59" name="Default" comment="" />
+      <created>1578922758383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578922758383</updated>
+      <workItem from="1578922764178" duration="1066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1066000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/facebook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <marker date="1578923624245" expanded="true" signature="463:676" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
