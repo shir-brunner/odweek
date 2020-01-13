@@ -45,36 +45,37 @@
 		<div id="content">
 			<div style="padding: 20px;">
 				<?php
-					switch($_GET['page'])
+				    $page = isset($_GET['page']) ? $_GET['page'] : '';
+					switch($page)
 					{
 						case 'user':
 							require_once("user.php");
 							break;
-							
+
 						case 'charts':
 							require_once("charts.php");
 							break;
-							
+
 						case 'all_comments':
 							require_once("all_comments.php");
 							break;
-							
+
 						case 'best_comments':
 							require_once("best_comments.php");
 							break;
-							
+
 						case 'monthly':
 							require_once("monthly.php");
 							break;
-							
+
 						case 'all_users':
 							require_once("all_users.php");
 							break;
-							
+
 						case 'summary':
 							require_once("summary.php");
 							break;
-							
+
 						default:
 							require_once("welcome.php");
 							break;
