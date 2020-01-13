@@ -17,24 +17,23 @@ class FacebookData
 		  'allowSignedRequest' => false, // optional, but should be set to false for non-canvas apps
 		);
 
-		$this->facebook = new Facebook($config);
+		/*$this->facebook = new Facebook($config);
 		
 		if(!$this->user = $this->facebook->getUser())
 		{
 			header('Location: ' . $this->facebook->getLoginUrl(array(
 				"scope" => "read_stream, read_insights",
 			)));
-		}
+		}*/
 		
 		global $db_host;
 		global $db_user;
 		global $db_password;
 		global $db_name;
 		
-		$this->conn = mysql_connect($db_host, $db_user, $db_password);
-		mysql_select_db($db_name, $this->conn);
-		
-		mysql_set_charset('utf8', $this->conn);
+		$this->conn = mysqli_connect($db_host, $db_user, $db_password);
+		mysqli_select_db($this->conn, $db_name);
+		mysqli_set_charset($this->conn, 'utf8');
 	}
 	
 	public function getAllComments()

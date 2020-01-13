@@ -106,6 +106,7 @@
 	
 	<tbody>
 		<?php
+		    $counter = 0;
 			foreach($comments as $comment_id => $comment)
 			{
 				$counter++;

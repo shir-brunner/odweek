@@ -12,6 +12,7 @@
 		
 		<tbody>
 			<?php
+			    $counter = 0;
 				foreach($db_handler->getAllComments() as $comment_id => $comment)
 				{
 					$counter++;

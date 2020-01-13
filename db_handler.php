@@ -21,24 +21,23 @@ class DbHandler
 		  'allowSignedRequest' => false, // optional, but should be set to false for non-canvas apps
 		);
 
-		$this->facebook = new Facebook($config);
+		/*$this->facebook = new Facebook($config);
 		
 		if(!$this->user = $this->facebook->getUser())
 		{
 			header('Location: ' . $this->facebook->getLoginUrl(array(
 				"scope" => "read_stream, read_insights",
 			)));
-		}
+		}*/
 		
 		global $db_host;
 		global $db_user;
 		global $db_password;
 		global $db_name;
 		
-		$this->conn = mysql_connect($db_host, $db_user, $db_password);
-		mysql_select_db($db_name, $this->conn);
-		
-		mysql_set_charset('utf8', $this->conn);
+		$this->conn = mysqli_connect($db_host, $db_user, $db_password);
+        mysqli_select_db($this->conn, $db_name);
+        mysqli_set_charset($this->conn, 'utf8');
 	}
 
 	public function getBestComments()
@@ -55,7 +54,7 @@ class DbHandler
 	
 	public function getAllUserComments($uid)
 	{
-		$uid = mysql_real_escape_string($uid);
+		$uid = mysqli_real_escape_string($this->conn, $uid);
 		
 		$sql = "SELECT * FROM comments WHERE uid = '$uid' ORDER BY time ASC LIMIT " . self::QUERY_LIMIT;
 		return $this->getComments($sql);
@@ -66,10 +65,10 @@ class DbHandler
 		$users = array();
 		$comments = array();
 		
-		$result = mysql_query($sql, $this->conn);
-		if(mysql_num_rows($result) > 0)
+		$result = mysqli_query($this->conn, $sql);
+		if(mysqli_num_rows($result) > 0)
 		{
-			while($record = mysql_fetch_array($result))
+			while($record = mysqli_fetch_array($result))
 			{
 				$comments[$record['id']] = array(
 					'uid' => $record['uid'],
@@ -87,8 +86,8 @@ class DbHandler
 		foreach($comments as $comment_id => $comment)
 		{
 			$uid = $comment['uid'];
-			$comments[$comment_id]['user_name'] = $users_data[$uid]['user_name'];
-			$comments[$comment_id]['picture'] = $users_data[$uid]['picture'];
+			$comments[$comment_id]['user_name'] = isset($users_data[$uid]) ? $users_data[$uid]['user_name'] : 'Unknown';
+			$comments[$comment_id]['picture'] = isset($users_data[$uid]) ? $users_data[$uid]['picture'] : '';
 		}
 		
 		return $comments;
@@ -102,20 +101,19 @@ class DbHandler
 		}
 		
 		$users_str = implode(',', $users);
-		
-		$result = $this->facebook->api(array(
-	       'method' => 'fql.query',
-	       'query' => "SELECT uid, name, pic_small FROM user WHERE uid IN ($users_str)",
-	    ));
-		
-		foreach($result as $user)
-		{
-			$this->users_data[$user['uid']] = array(
-				'user_name' => $user['name'],
-				'picture' => $user['pic_small'],
-			);
-		}
-		
+
+        $result = mysqli_query($this->conn, "SELECT * FROM users WHERE uid IN ($users_str)");
+        if(mysqli_num_rows($result) > 0)
+        {
+            while($user = mysqli_fetch_array($result))
+            {
+                $this->users_data[$user['uid']] = array(
+                    'user_name' => $user['name'],
+                    'picture' => 'https://graph.facebook.com/' . $user['uid'] . '/picture?type=small',
+                );
+            }
+        }
+
 		return $this->users_data;
 	}
 	
@@ -143,12 +141,12 @@ class DbHandler
 		
 		$users = array();
 		
-		$result = mysql_query($sql, $this->conn);
-		if(mysql_num_rows($result) > 0)
+		$result = mysqli_query($this->conn, $sql);
+		if(mysqli_num_rows($result) > 0)
 		{
 			$comments_count = $this->getCommentsCount();
 			
-			while($record = mysql_fetch_array($result))
+			while($record = mysqli_fetch_array($result))
 			{
 				$users[$record['uid']] = array(
 					'uid' => $record['uid'],
@@ -169,8 +167,8 @@ class DbHandler
 		
 		foreach($users as $uid => $comment)
 		{
-			$users[$uid]['user_name'] = $users_data[$uid]['user_name'];
-			$users[$uid]['picture'] = $users_data[$uid]['picture'];
+			$users[$uid]['user_name'] = isset($users_data[$uid]) ? $users_data[$uid]['user_name'] : 'Unknown';
+			$users[$uid]['picture'] = isset($users_data[$uid]) ? $users_data[$uid]['picture'] : '';
 		}
 		
 		return $users;
@@ -178,7 +176,7 @@ class DbHandler
 	
 	public function getMonthlyData($uid = null)
 	{
-		$uid = mysql_real_escape_string($uid);
+		$uid = mysqli_real_escape_string($this->conn, $uid);
 		
 		$sql = "
 			SELECT
@@ -196,12 +194,12 @@ class DbHandler
 		
 		$months = array();
 		
-		$result = mysql_query($sql, $this->conn);
-		if(mysql_num_rows($result) > 0)
+		$result = mysqli_query($this->conn, $sql);
+		if(mysqli_num_rows($result) > 0)
 		{
 			$comments_count = $this->getCommentsCount();
 			
-			while($record = mysql_fetch_array($result))
+			while($record = mysqli_fetch_array($result))
 			{
 				$months[] = array(
 					'comments' => $record['comments'],
@@ -218,21 +216,21 @@ class DbHandler
 	
 	private function getCommentsCount()
 	{
-		$result = mysql_query("SELECT COUNT(*) AS comments_count FROM comments", $this->conn);
-		$record = mysql_fetch_array($result);
+		$result = mysqli_query($this->conn, "SELECT COUNT(*) AS comments_count FROM comments");
+		$record = mysqli_fetch_array($result);
 		return $record['comments_count'];
 	}
 	
 	private function getLikesCount()
 	{
-		$result = mysql_query("SELECT SUM(likes) AS likes_count FROM comments", $this->conn);
-		$record = mysql_fetch_array($result);
+		$result = mysqli_query($this->conn, "SELECT SUM(likes) AS likes_count FROM comments");
+		$record = mysqli_fetch_array($result);
 		return $record['likes_count'];
 	}
 	
 	public function getUser($uid)
 	{
-		$uid = mysql_real_escape_string($uid);
+		$uid = mysqli_real_escape_string($this->conn, $uid);
 		
 		$sql = "
 			SELECT
@@ -253,16 +251,16 @@ class DbHandler
 		
 		$user = array();
 		
-		$result = mysql_query($sql, $this->conn);
-		if(mysql_num_rows($result) > 0)
+		$result = mysqli_query($this->conn, $sql);
+		if(mysqli_num_rows($result) > 0)
 		{
-			$record = mysql_fetch_array($result);
+			$record = mysqli_fetch_array($result);
 			$comments_count = $this->getCommentsCount();
 			
 			$user = array(
 				'uid' => $uid,
-				'user_name' => $this->users_data[$uid]['user_name'],
-				'picture' => $this->users_data[$uid]['picture'],
+				'user_name' => isset($this->users_data[$uid]) ? $this->users_data[$uid]['user_name'] : 'Unknown',
+				'picture' => isset($this->users_data[$uid]) ? $this->users_data[$uid]['picture'] : '',
 				'comments' => $record['comments'],
 				'likes' => $record['likes'],
 				'likes_given' => $record['likes_given'],
@@ -282,7 +280,7 @@ class DbHandler
 	
 	public function getLikesInfo($uid = null)
 	{
-		$uid = mysql_real_escape_string($uid);
+		$uid = mysqli_real_escape_string($this->conn, $uid);
 		
 		$sql = "
 			SELECT
@@ -297,10 +295,10 @@ class DbHandler
 		
 		$likes_info = array();
 		
-		$result = mysql_query($sql, $this->conn);
-		if(mysql_num_rows($result) > 0)
+		$result = mysqli_query($this->conn, $sql);
+		if(mysqli_num_rows($result) > 0)
 		{
-			while($record = mysql_fetch_array($result))
+			while($record = mysqli_fetch_array($result))
 			{
 				$likes_info[] = array(
 					'likes' => $record['likes'],
@@ -332,10 +330,10 @@ class DbHandler
 			FROM comments
 		";
 		
-		$result = mysql_query($sql, $this->conn);
-		if(mysql_num_rows($result) > 0)
+		$result = mysqli_query($this->conn, $sql);
+		if(mysqli_num_rows($result) > 0)
 		{
-			$record = mysql_fetch_array($result);
+			$record = mysqli_fetch_array($result);
 			
 			$summary['first_comment_time'] = $record['first_comment_time'];
 			$summary['last_comment_time'] = $record['last_comment_time'];
@@ -349,29 +347,29 @@ class DbHandler
 	
 	private function getLongestCommentUser()
 	{
-		$result = mysql_query("SELECT uid FROM comments ORDER BY CHAR_LENGTH(text) DESC LIMIT 1", $this->conn);
-		$record = mysql_fetch_array($result);
+		$result = mysqli_query($this->conn, "SELECT uid FROM comments ORDER BY CHAR_LENGTH(text) DESC LIMIT 1");
+		$record = mysqli_fetch_array($result);
 		return $record['uid'];		
 	}
 	
 	private function getShortestCommentUser()
 	{
-		$result = mysql_query("SELECT uid FROM comments ORDER BY CHAR_LENGTH(text) ASC LIMIT 1", $this->conn);
-		$record = mysql_fetch_array($result);
+		$result = mysqli_query($this->conn, "SELECT uid FROM comments ORDER BY CHAR_LENGTH(text) ASC LIMIT 1");
+		$record = mysqli_fetch_array($result);
 		return $record['uid'];
 	}
 	
 	public function getRandomComment()
 	{
-		$result = mysql_query("SELECT uid, text FROM comments ORDER BY RAND() LIMIT 1", $this->conn);
-		$record = mysql_fetch_array($result);
+		$result = mysqli_query($this->conn, "SELECT uid, text FROM comments ORDER BY RAND() LIMIT 1");
+		$record = mysqli_fetch_array($result);
 		
 		$users_data = $this->getUsersDetails(array($record['uid']));
 		
 		return array(
 			'uid' => $record['uid'],
-			'user_name' => $users_data[$record['uid']]['user_name'],
-			'picture' => $users_data[$record['uid']]['picture'],
+			'user_name' => isset($users_data[$record['uid']]) ? $users_data[$record['uid']]['user_name'] : 'Unknown',
+			'picture' => isset($users_data[$record['uid']]) ? $users_data[$record['uid']]['picture'] : '',
 			'text' => $record['text'],
 		);
 	}
@@ -404,7 +402,7 @@ class DbHandler
 	
 	public function getCommentLikes($comment_id)
 	{
-		$comment_id = mysql_real_escape_string($comment_id);
+		$comment_id = mysqli_real_escape_string($this->conn, $comment_id);
 		
 		$sql = "
 			SELECT uid
@@ -412,15 +410,15 @@ class DbHandler
 			WHERE comment_id = '$comment_id'
 		";
 		
-		$result = mysql_query($sql, $this->conn);
-		if(mysql_num_rows($result) == 0)
+		$result = mysqli_query($this->conn, $sql);
+		if(mysqli_num_rows($result) == 0)
 		{
 			return array();
 		}
 		
 		$users = array();
 		
-		while($record = mysql_fetch_array($result))
+		while($record = mysqli_fetch_array($result))
 		{
 			$users[$record['uid']] = $record['uid'];
 		}
@@ -431,8 +429,8 @@ class DbHandler
 		
 		foreach($users as $uid => $user)
 		{
-			$res[$uid]['user_name'] = $users_data[$uid]['user_name'];
-			$res[$uid]['picture'] = $users_data[$uid]['picture'];
+			$res[$uid]['user_name'] = isset($users_data[$uid]) ? $users_data[$uid]['user_name'] : 'Unknown';
+			$res[$uid]['picture'] = isset($users_data[$uid]) ? $users_data[$uid]['picture'] : '';
 		}
 		
 		return $res;

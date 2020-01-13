@@ -18,7 +18,7 @@
 			
 			<tbody>
 				<?php
-					$sum_data = array();
+					$sum_data = array('likes' => 0, 'comments' => 0);
 					$counter = 0;
 					
 					foreach($months as $month)
